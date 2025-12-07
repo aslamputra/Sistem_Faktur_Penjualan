@@ -1,3 +1,2 @@
 # Sistem_Faktur_Penjualan
-
-# Kurangnya fitur login dan logout
+Kurangnya fitur login dan logout
